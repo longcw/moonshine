@@ -1,3 +1,4 @@
 silero_vad
 sounddevice
 tokenizers
+websockets
